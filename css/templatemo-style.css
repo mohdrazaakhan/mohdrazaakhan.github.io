@@ -313,7 +313,10 @@ header .social-icon li a {
 	color: #fff;
 	text-decoration: none;
 }
-
+.button-flex{
+	display: flex;
+	justify-content: space-between;
+}
 
 /* start about */
 #about .media-heading-wrapper {
