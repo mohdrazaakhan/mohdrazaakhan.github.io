@@ -729,6 +729,15 @@ header .social-icon li a {
 	margin-top: -10px;
 }
 
+#resumeButton{
+	background-color:transparent;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	border: none;
+	color: black;
+	font-weight: bold;
+	margin-top: 2.3rem;
+}
 
 
 /* end 360 media quires */
